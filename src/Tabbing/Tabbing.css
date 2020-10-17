@@ -1,0 +1,19 @@
+.round-back{
+	border:2px solid grey;
+	border-radius:10px;
+	padding:15px;
+	width:90%;
+	margin:0px auto;
+	margin-bottom:20px;
+}
+.react-tabs__tab{
+	border:0px;
+	font-size:25px;
+	text-align:center;
+	margin-left:25px;
+	width:5%;
+	color:grey;
+}
+.react-tabs__tab--selected{
+	border-bottom:5px solid grey;
+}
